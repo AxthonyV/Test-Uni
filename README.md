@@ -1,3 +1,3 @@
 # Strategy Method - SimUPato 
-### Upload the project, next class :D
+### SimUPato project uploaded using strategy method :D
 
