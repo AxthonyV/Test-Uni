@@ -1,6 +1,6 @@
 public abstract class Pato {
     public void nadar() {
-        System.out.println("Nadando... Todos los patos flotan xd");
+        System.out.println("TODOS LOS PATOS NADAN");
     }
     
     public abstract void mostrar();
